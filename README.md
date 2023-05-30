@@ -22,7 +22,7 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 
 <samp><strong>Monthly development breakdown</strong> (from <a href="https://wakatime.com/dashboard">Wakatime</a>)</samp>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakamonthly-->
 
 ```text
 C                22 hrs 21 mins  ██████████░░░░░░░░░░░░░░░   41.26 %
@@ -31,4 +31,13 @@ Markdown         3 hrs 35 mins   ██░░░░░░░░░░░░░�
 Rust             2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:wakamonthly-->
+
+<details>
+<summary><samp>Yearly development breakdown<samp></summary>
+<br/>
+
+<!--START_SECTION:wakayearly-->
+<!--END_SECTION:wakayearly-->
+
+</details>

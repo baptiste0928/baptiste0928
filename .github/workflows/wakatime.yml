@@ -10,6 +10,9 @@ jobs:
     name: Wakatime statistics
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Update Wakatime statistics
         uses: athul/waka-readme@master

@@ -1,0 +1,21 @@
+name: Wakatime
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * */2"
+
+jobs:
+  update-readme:
+    name: Wakatime statistics
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Update Wakatime statistics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}*
+          COMMIT_MESSAGE: Update Wakatime statistics
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 4
+          BLOCKS: ░█

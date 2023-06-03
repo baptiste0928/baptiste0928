@@ -24,11 +24,11 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 
 <!--START_SECTION:wakamonthly-->
 
-```text
-C                22 hrs 21 mins  ██████████░░░░░░░░░░░░░░░   41.26 %
-TypeScript       16 hrs 7 mins   ███████░░░░░░░░░░░░░░░░░░   29.76 %
-Markdown         3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Rust             2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+```txt
+C                22 hrs 21 mins  ███████████░░░░░░░░░░░░░░   42.13 %
+TypeScript       14 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   28.25 %
+Markdown         3 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Rust             3 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:wakamonthly-->

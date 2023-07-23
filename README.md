@@ -40,12 +40,12 @@ Other        1 hr 52 mins    █░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```txt
-C                250 hrs 15 mins ████████████░░░░░░░░░░░░░   47.11 %
+C                250 hrs 15 mins ████████████░░░░░░░░░░░░░   47.13 %
 Rust             71 hrs 32 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.47 %
-TypeScript       63 hrs 15 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
+TypeScript       64 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
 Makefile         32 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Markdown         21 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-YAML             15 hrs 58 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Markdown         21 hrs 4 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+YAML             15 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:wakayearly-->

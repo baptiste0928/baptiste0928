@@ -40,12 +40,12 @@ JavaScript   1 hr 18 mins    ░░░░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```txt
-C                250 hrs 15 mins ███████████░░░░░░░░░░░░░░   43.61 %
-TypeScript       121 hrs 4 mins  █████░░░░░░░░░░░░░░░░░░░░   21.10 %
-Rust             55 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Makefile         32 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Markdown         18 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-YAML             14 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+C                250 hrs 15 mins ███████████░░░░░░░░░░░░░░   43.65 %
+TypeScript       121 hrs 4 mins  █████░░░░░░░░░░░░░░░░░░░░   21.12 %
+Rust             54 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Makefile         32 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Markdown         18 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+YAML             14 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:wakayearly-->

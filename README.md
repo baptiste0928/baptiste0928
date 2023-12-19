@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-TypeScript   43 hrs 27 mins  ███████████████████░░░░░░   76.49 %
-JSON         3 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Prisma       2 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Other        2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+TypeScript   39 hrs 35 mins  ███████████████████░░░░░░   76.86 %
+Prisma       2 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON         2 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Other        1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:wakamonthly-->

@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-TypeScript   15 hrs 32 mins  ███████████████░░░░░░░░░░   60.81 %
-Haskell      6 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   25.10 %
-Prisma       1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-SQL          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Haskell      19 hrs 27 mins  ████████████████░░░░░░░░░   62.73 %
+TypeScript   9 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   29.69 %
+Prisma       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Makefile     25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:wakamonthly-->

@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-Haskell       23 hrs 23 mins  ████████░░░░░░░░░░░░░░░░░   32.66 %
-C++           18 hrs 56 mins  ███████░░░░░░░░░░░░░░░░░░   26.43 %
-C             18 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   25.68 %
-TypeScript    4 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Haskell       23 hrs 23 mins  ████████░░░░░░░░░░░░░░░░░   33.03 %
+C++           18 hrs 56 mins  ███████░░░░░░░░░░░░░░░░░░   26.74 %
+C             18 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   25.97 %
+TypeScript    3 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:wakamonthly-->

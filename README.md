@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-C++             37 hrs 37 mins  ██████████████░░░░░░░░░░░   55.60 %
-TypeScript      9 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Assembly        5 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Makefile        3 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+C++             37 hrs 37 mins  ██████████████░░░░░░░░░░░   56.66 %
+TypeScript      8 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Assembly        5 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Makefile        3 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 ```
 
 <!--END_SECTION:wakamonthly-->

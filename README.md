@@ -40,12 +40,12 @@ Makefile        3 hrs 49 mins   ██░░░░░░░░░░░░░░
 <!--START_SECTION:wakayearly-->
 
 ```txt
-TypeScript        305 hrs         ███████████░░░░░░░░░░░░░░   45.04 %
+TypeScript        304 hrs 32 mins ███████████░░░░░░░░░░░░░░   44.98 %
 C                 89 hrs 46 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.26 %
 C++               62 hrs 4 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 %
 Rust              32 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-JSON              26 hrs 50 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Haskell           24 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JSON              26 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Haskell           25 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:wakayearly-->

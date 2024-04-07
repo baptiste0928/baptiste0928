@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-Haskell       10 hrs 28 mins  ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Rust          7 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-YAML          4 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-TypeScript    4 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Haskell       9 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+Rust          7 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   18.19 %
+Markdown      3 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Bash          3 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:wakamonthly-->

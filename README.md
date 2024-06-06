@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-C++           23 hrs 25 mins  ███████████░░░░░░░░░░░░░░   42.30 %
-Rust          8 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Markdown      4 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-C             3 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+C++           23 hrs 25 mins  ███████████░░░░░░░░░░░░░░   44.48 %
+Rust          8 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Markdown      4 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+TypeScript    3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:wakamonthly-->

@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-C++           40 hrs 1 min    ██████████████████░░░░░░░   70.31 %
-Rust          7 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
-Dart          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-CMake         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+C++           44 hrs 2 mins   ██████████████████░░░░░░░   71.46 %
+Rust          7 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Dart          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+CMake         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:wakamonthly-->

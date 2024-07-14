@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-C++           34 hrs 41 mins  █████████████████░░░░░░░░   69.53 %
-Markdown      5 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Dart          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Astro         1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+C++           28 hrs 31 mins  █████████████████░░░░░░░░   66.60 %
+Markdown      5 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Dart          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Astro         1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:wakamonthly-->

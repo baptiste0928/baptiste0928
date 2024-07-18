@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-C++           24 hrs 22 mins  █████████████████░░░░░░░░   67.04 %
-Markdown      5 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Astro         1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-JSON          59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+C++           21 hrs 37 mins  ████████████████░░░░░░░░░   65.98 %
+Markdown      4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Astro         1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+JSON          53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:wakamonthly-->

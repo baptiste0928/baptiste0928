@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-TypeScript        29 hrs 11 mins  █████████████░░░░░░░░░░░░   52.24 %
-C++               8 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Rust              3 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Prisma            2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+TypeScript        33 hrs 23 mins  ████████████████░░░░░░░░░   62.43 %
+Rust              4 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Prisma            2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Python            1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:wakamonthly-->

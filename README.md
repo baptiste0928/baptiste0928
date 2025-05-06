@@ -25,10 +25,10 @@ I love experimenting with new stuff, and that sometimes leads to projects that I
 <!--START_SECTION:wakamonthly-->
 
 ```txt
-TypeScript   28 hrs 46 mins  █████████████████░░░░░░░░   69.03 %
-JSON         3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-YAML         2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Docker       2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+TypeScript   28 hrs 8 mins   █████████████████░░░░░░░░   69.82 %
+JSON         3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+YAML         2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Docker       2 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:wakamonthly-->
